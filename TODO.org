@@ -1,0 +1,10 @@
+* TODO Laboratory-os
+ - [-] General tasks [1/8]
+  - [X] Create TODO file. [2011-02-13 Sun]
+  - [ ] Fill in README file.
+  - [ ] Adopt temporary license by Laboratory-os.
+  - [ ] Create different areas being splitted in an OS (fs, mm, etc).
+  - [ ] Discuss programming languages being adopted in each area.
+  - [ ] Discuss documentation format and support.
+  - [ ] Discuss testing being implemented and types.
+  - [ ] Discuss hardware devices to support for this project.
